@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Ankur Rana
 
-<!--
-**ranaji114/ranaji114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Developer (Learning React) | DSA in C++ | Building Real Projects
 
-Here are some ideas to get you started:
+- 🔭 Currently learning **React** and improving **JavaScript**
+- 💡 Solving DSA problems in **C++** to improve problem-solving
+- 🎯 Goal: Build clean, responsive UIs & prepare for SDE roles
+- 🚀 Slowly building a strong developer portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech Stack
+**Frontend:** HTML • CSS • JavaScript • React (Learning)  
+**Other:** C++ (DSA), Git, GitHub  
+**Learning Next:** APIs, Projects, Deployment
+
+---
+
+## 📌 Featured Projects (Coming Soon)
+- YouTube UI Clone  
+- Weather App  
+- Notes App (LocalStorage)
+
+*(Updating as I build)*
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=ranaji114&show_icons=true&theme=transparent)
+![Streak](https://streak-stats.demolab.com?user=ranaji114&theme=dark&hide_border=true)
+
+---
+
+## 🌱 Currently Working On
+- Making clean frontend projects  
+- Building React skills step-by-step  
+- Improving coding discipline and consistency  
+
+---
+
+⭐ *More projects & updates coming soon…*
+
